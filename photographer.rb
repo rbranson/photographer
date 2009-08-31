@@ -1,4 +1,7 @@
 #!/usr/bin/ruby
+#
+# Copyright 2009 (C) Rick Branson. Meh, it's public domain.
+#
 
 require "rubygems"
 require "right_aws"

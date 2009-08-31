@@ -1,0 +1,1 @@
+Photographer is a Ruby script for use with AWS Elastic Compute Cloud that will create snapshots of currently attached EBS instances. It also goes back and removes old ones from roughly a week ago (this is configurable). The result is a set of a weeks worth of daily EBS snapshots. Have fun.
